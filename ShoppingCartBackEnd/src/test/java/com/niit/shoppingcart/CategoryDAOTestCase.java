@@ -36,18 +36,18 @@ public class CategoryDAOTestCase {
 
 	}
 
-	@Test
+	/*@Test
 	public void createCategoryTestCase() {
-		category.setId("WOMEN_007");
-		category.setName("WOMEN");
-		category.setDescription("This category contains Top wears");
+		category.setId("WOMEN_009");
+		category.setName("WOMEN001");
+		category.setDescription("This category contains Top wears 12345SS");
 
 		boolean flag = categoryDAO.save(category);
 
 		assertEquals("createCategoryTestCase", true, flag);
 
 	}
-
+*/
 	/*@Test
 	public void updateCategoryTestCase() {
 		category.setId("MEN&WOMEN_003");
@@ -60,19 +60,19 @@ public class CategoryDAOTestCase {
 
 	}
 
-	/*@Test
+	@Test
 	public void deleteCategoryTestCase() {
-		category.setName("APPLIANCES");
+		category.setName("MOBILES");
 		boolean flag = categoryDAO.delete(category.getName());
 
 		assertEquals("deleteCategoryTestCase", true, flag);
 
 	}
-
-	@Test
+*/
+/*	@Test
 	public void listAllCategoryTestCase() {
 		int actualSize = categoryDAO.list().size();
-		assertEquals(7, actualSize);
-	}*/
-
+		assertEquals(6, actualSize);
+	}
+*/
 }
