@@ -47,7 +47,7 @@ public class CategoryDAOTestCase {
 		assertEquals("createCategoryTestCase", true, flag);
 
 	}
-*/
+
 	/*@Test
 	public void updateCategoryTestCase() {
 		category.setId("MEN&WOMEN_003");

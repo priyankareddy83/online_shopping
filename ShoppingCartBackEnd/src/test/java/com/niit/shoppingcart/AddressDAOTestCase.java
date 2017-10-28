@@ -33,7 +33,7 @@ public class AddressDAOTestCase {
 
 	}
 
-	@Test
+	/*@Test
 	public void createAddressTestCase() {
 		address.setId("UdayAddress");
 		address.setUser_id("Kiran");

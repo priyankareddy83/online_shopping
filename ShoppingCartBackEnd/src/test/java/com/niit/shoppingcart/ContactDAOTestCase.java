@@ -35,7 +35,7 @@ public class ContactDAOTestCase {
 
 	}
 
-	@Test
+	/*@Test
 	public void createContactTestCase() {
 		contact.setName("T Pradeep Reddy");
 		contact.setEmail("pradeeptv99@gmail.com");

@@ -10,22 +10,22 @@
 	<div class="navbar navbar-default navbar-fixed-bottom">
 		<div class="container-fluid">
 			<div class="navbar-text pull-left">
-				<p><marquee>&copy; 2017 Krish MKS</marquee></p>
+				<p><marquee>&copy; 2017 Priyanka Reddy</marquee></p>
 			</div>
 			<div class="navbar-text noStyle pull-right">
-				<a href="https://www.facebook.com/KrishMKS001" target="_blank">
+				<a href="https://www.facebook.com/priyankareddyyellati" target="_blank">
 					<i class="fa fa-facebook fa-2x"></i>
 				</a>
-				<a href="https://twitter.com/MKS_Krish" target="_blank">
+				<a href="https://twitter.com/priyankareddie" target="_blank">
 					<i class="fa fa-twitter fa-2x"></i>
 				</a>
-				<a href="http://linkedin.com/in/krish-mks-b98b16147/" target="_blank">
+				<a href="http://linkedin.com/in/priyankareddyyellati/" target="_blank">
 					<i class="fa fa-linkedin fa-2x"></i>
 				</a>
-				<a href="https://plus.google.com/101463491398872451539" target="_blank">
+				<a href="https://plus.google.com/priyankareddyyellati83" target="_blank">
 					<i class="fa fa-google-plus fa-2x"></i>
 				</a>
-				<a href="https://github.com/KrishMKS" target="_blank">
+				<a href="https://github.com/priyankareddy83" target="_blank">
 					<i class="fa fa-github fa-2x"></i>
 				</a>
 			</div>

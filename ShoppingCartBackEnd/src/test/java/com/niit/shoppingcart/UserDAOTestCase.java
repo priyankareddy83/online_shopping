@@ -33,26 +33,26 @@ public class UserDAOTestCase {
 
 	}
 
-	@Test
+	/*@Test
 	public void createUserTestCase() {
-		user.setId("krish");
-		user.setName("krish");
-		user.setPassword("krish");
+		user.setId("priyanka");
+		user.setName("priyankareddy");
+		user.setPassword("priyanka");
 		user.setRole("ROLE_ADMIN");
-		user.setContact("9989988806");
+		user.setContact("8801221428");
 		boolean flag = userDAO.save(user);
 
 		assertEquals("createUserTestCase", true, flag);
 
 	}
 
-	/*@Test
+	@Test
 	public void updateUserTestCase() {
-		user.setId("Uday");
-		user.setName("UdayK");
-		user.setPassword("Udaykk");
+		user.setId("krish");
+		user.setName("krish");
+		user.setPassword("krish");
 		user.setRole("ROLE_ADMIN");
-		user.setContact("8877665544");
+		user.setContact("9989988806");
 		boolean flag = userDAO.update(user);
 
 		assertEquals("updateUserTestCase", true, flag);
@@ -66,8 +66,7 @@ public class UserDAOTestCase {
 		assertEquals(true, flag);
 
 	}
-
-	@Test
+     @Test
 	public void listAllUserTestCase() {
 		int actualSize = userDAO.list().size();
 		assertEquals(5, actualSize);

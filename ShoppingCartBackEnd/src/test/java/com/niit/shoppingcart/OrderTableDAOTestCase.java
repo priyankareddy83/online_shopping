@@ -39,19 +39,19 @@ public class OrderTableDAOTestCase {
 	
 	
 	
-	@Test
+	/*@Test
 	public void createOrderTableTestCase(){
 		orderTable.setId(1);
-		orderTable.setUser_id("Kiran");
+		orderTable.setUser_id("kiran");
 		orderTable.setStatus("N");
 		boolean flag = orderTableDAO.save(orderTable);
 		assertEquals("createOrderTableTestCase", true, flag);
 	}
 	
-	@Test
+	/*@Test
 	public void listTestCase(){
 		int orderedSize = orderTableDAO.list("Kiran").size();
 		assertEquals(1, orderedSize);
 	}
-
+*/
 }
